@@ -1,6 +1,6 @@
 # Báo cáo cá nhân — Ngày 2 Object Detection
 
-Đổi tên file theo `MSSV_HoTen.md`, ví dụ `20241234_NguyenVanAn.md`. Điền kết quả thật, xóa dòng hướng dẫn khi nộp. Xem [quy định nộp](../../SUBMISSION.md).
+
 
 ## 1. Thông tin học viên
 
@@ -13,7 +13,7 @@
 
 
 
-Dẫn tới `outputs/annotation_evaluation.json` trong repo. Nếu rework, ghi ảnh, lỗi đã kiểm, quyết định sửa/giữ và lý do. Không suy nguyên nhân chỉ từ FP/FN. Không có rework thì ghi rõ.
+
 
 ## 2. Schema và mini guideline
 
@@ -125,7 +125,7 @@ Lưu ý khi đọc kết quả: 10 ảnh eval chỉ có 2 xe `truck` và 5 xe `v
 - **Mini guideline và ca mơ hồ:** có định nghĩa lớp, quy tắc và bốn ca có lý do.
 - **Gold QC:** F1 = 0,630 và mean IoU = 0,849. Mean IoU đạt ngưỡng 0,70; F1 chưa đạt 0,80 nhưng đạt ngưỡng 0,5 theo xác nhận của lab coach, kèm vòng rework được giải thích ở mục 4.
 - **Pipeline YOLO và phân tích:** Colab đã chạy, không dùng eval để train, có metrics và ảnh dự đoán. Các chỉ số theo lớp nhiễu vì eval chỉ có 2 xe `truck` và 5 xe `van`.
-- **Chưa kiểm được:** 
+- **Chưa kiểm được:** quy tắc xe nhỏ chưa được giảng viên xác nhận, các chỉ số theo lớp nhiễu vì eval ít mẫu
 
 ## 8. Công cụ AI và tài liệu tham khảo
 
