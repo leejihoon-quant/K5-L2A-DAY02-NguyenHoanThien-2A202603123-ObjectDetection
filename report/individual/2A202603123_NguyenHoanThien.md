@@ -8,7 +8,7 @@
 - MSSV: 2A202603123
 - Email: nht270605@gmail.com
 - Lớp: 2A
-- Link repo bài làm: https://github.com/leejihoon-quant/K5-L2-Day02-Nguy-n-Ho-n-Thi-n-2A202603123-ObjectDetection
+- Link repo bài làm: https://github.com/leejihoon-quant/K5-L2A-DAY02-NguyenHoanThien-2A202603123-ObjectDetection
 - Link Colab đã chạy: https://colab.research.google.com/drive/1UWQ56MvdaaFyM3aNgGit0MWdXoREek87
 
 
